@@ -1,0 +1,32 @@
+
+			#two-one {
+				height: 28px;
+				width: 80%;
+				align-items: center;
+				margin-top: 8px;
+				margin-left: 12px;
+				color: white;
+				font-family: "微软雅黑";
+			}
+			
+			#two-two {
+				height: 25px;
+				width: 10%;
+				background: url(img/搜索-01.png) no-repeat;
+				background-size: 22px;
+				margin: 5px;
+			}
+			
+			#two-three {
+				height: 25px;
+				width: 10%;
+				background: url(img/加-02.png)no-repeat;
+				background-size: 20px;
+				margin: 5px;
+			}
+			
+			
+		#one {
+			width: 100%;
+			height: 45px;
+		}

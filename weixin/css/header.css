@@ -1,0 +1,90 @@
+#header {
+	height: 75px;
+	flex-flow: row;
+}
+
+#header-one {
+	height: 30px;
+	background-color: #333333;
+	display: flex;
+}
+
+#header-two {
+	height: 38px;
+	display: flex;
+	background-color: #444444;
+	/*background-image: linear-gradient(to bottom, #212121, #616161);*/
+}
+
+
+/*第一部分的第一个*/
+
+#one-one {
+	height: 28px;
+	width: 30%;
+	/*border: solid 1px red;*/
+	color: white;
+	font-size: 11px;
+	align-content: center;
+	line-height: 28px;
+	margin-left: 5px;
+}
+
+#one-two {
+	height: 28px;
+	width: 40%;
+	/*border: solid 1px red;*/
+}
+
+#one-three {
+	height: 28px;
+	width: 40%;
+	/*border: solid 1px red;*/
+}
+
+
+/*电池*/
+
+#battery {
+	height: 28px;
+	width: 30%;
+	/*	border: solid 1px red;*/
+	display: flex;
+	align-items: center;
+	align-content: center;
+	justify-content: flex-end;
+	font-family: "微软雅黑";
+	font-size: 11px;
+	color: white;
+	margin-right: 2px;
+}
+/*电池中间*/
+#battery-top {
+	height: 9px;
+	width: 18px;
+	border: solid 1px white;
+	align-items: center;
+	justify-content: center;
+	margin-left: 3px;
+}
+/*电量*/
+#dl {
+	height: 9px;
+	width: 4px;
+	background-color: red;
+}
+/*电池尾部*/
+#battery-bottom {
+	height: 6px;
+	width: 1px;
+	border: solid 1px white;
+	margin-right: 5px;
+	font-family: "微软雅黑";
+	font-size: 10px;
+}
+
+
+}
+::-webkit-scrollbar {
+	display:none;
+}

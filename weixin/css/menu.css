@@ -1,0 +1,21 @@
+.menu {
+				height: 50px;
+				/*border: solid 1px red;*/
+				/*flex-flow: column;*/
+				display: flex;
+				background-color: whitesmoke;
+			}			
+			.weixin-style {
+				display: flex;
+				width: 25%;
+				height: 50px;
+				/*border: solid 1px red;*/
+				flex-flow: column nowrap;
+				justify-content: center;
+				align-items: center;
+			}
+			
+			.font {
+				color: #9E9E9E;
+				font-size: 12px;
+			}
